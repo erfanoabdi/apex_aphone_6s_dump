@@ -1,0 +1,13 @@
+# full_k65v1_64_bsp-user 9 PPR1.180610.011 eng.releas.20190704.130232 dev-keys
+- manufacturer: apex
+- platform: mt6765
+- codename: Aphone_6s
+- flavor: full_k65v1_64_bsp-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: 1562216518
+- tags: dev-keys
+- fingerprint: Apex/Aphone_6s/Aphone_6s:9/PPR1.180610.011/1562216518:user/dev-keys
+- brand: Apex
+- branch: full_k65v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190704.130232-dev-keys
+- repo: apex_aphone_6s_dump
